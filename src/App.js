@@ -5,7 +5,7 @@ import LearnRef from "./LearnRef";
 function App() {
   return (
     <div className="App">
-      <P>Hello</P>
+      <p>Hello</p>
      <LearnState/>
      <LearnEffect/>
      <LearnRef/>
